@@ -1,0 +1,9 @@
+*.class
+gen/
+libs/
+bin/
+assets/
+project.properties
+.project
+*.swp
+.classpath
